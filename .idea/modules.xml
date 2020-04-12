@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PISCOPE.iml" filepath="$PROJECT_DIR$/.idea/PISCOPE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/piscope.iml" filepath="$PROJECT_DIR$/.idea/piscope.iml" />
     </modules>
   </component>
 </project>
